@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samir-hadiyal-s236020307065">LinkedIn</a> •
-  <a href="https://github.com/samir-hadiyal">GitHub</a>
+  <a href="https://github.com/Samirhadiyal">GitHub</a>
 </p>
 
 ---
