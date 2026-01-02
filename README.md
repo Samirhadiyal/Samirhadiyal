@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samir Hadiyal 👋</h1>
-<h3 align="center">Diploma Computer Engineering Student | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Engineering student focused on Machine Learning and building real world software systems.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samir-hadiyal-s236020307065">LinkedIn</a> •
@@ -40,8 +40,3 @@ Pandas • NumPy • Matplotlib • Scikit-Learn • Git & GitHub
 📍 Rajkot, Gujarat  
 🔗 LinkedIn: https://www.linkedin.com/in/samir-hadiyal-s236020307065
 
----
-
-<p align="center">
-  <em>Always learning. Always building.</em>
-</p>
