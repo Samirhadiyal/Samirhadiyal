@@ -62,5 +62,6 @@ Currently sharpening my skills in:
 ### 🤝 Let’s Connect
 
 📍 Rajkot, Gujarat  
-📩 GMail: hadiyal.samir26@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/samir-hadiyal
+<br>
+📩 GMail: hadiyal.samir26@gmail.com
