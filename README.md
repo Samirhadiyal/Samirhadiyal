@@ -62,4 +62,4 @@ Currently sharpening my skills in:
 ### 🤝 Let’s Connect
 
 📍 Rajkot, Gujarat  
-🔗 LinkedIn: https://www.linkedin.com/in/samir-hadiyal-s236020307065
+🔗 LinkedIn: https://www.linkedin.com/in/samir-hadiyal
