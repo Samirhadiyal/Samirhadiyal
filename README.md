@@ -11,11 +11,7 @@
 ### 🚀 About Me
 
 I am a Computer Engineering student at **AVPTI, Rajkot**, focused on Machine Learning and building real world software systems.  
-I enjoy working at the intersection of **data, logic, and clean system design**.
-
-Currently sharpening my skills in:
-- Machine Learning fundamentals  
-- Writing clean and maintainable code  
+I enjoy working at the intersection of **data, logic, and clean system design**. 
 
 ---
 
