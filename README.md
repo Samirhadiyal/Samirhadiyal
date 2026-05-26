@@ -57,5 +57,5 @@ I enjoy working at the intersection of **data, logic, and clean system design**.
 
 📍 Rajkot, Gujarat  
 🔗 LinkedIn: https://www.linkedin.com/in/samir-hadiyal
-<br>
-📩 GMail: hadiyal.samir26@gmail.com
+
+
