@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-I am a Computer Engineering student at **AVPTI, Rajkot**, focused on Machine Learning and building real world software systems.  
+Machine Learning Engineer | Computer Engineering Student at AVPTI | Developing Data-Driven AI Solutions
+<br>
 I enjoy working at the intersection of **data, logic, and clean system design**. 
 
 ---
@@ -32,9 +33,10 @@ I enjoy working at the intersection of **data, logic, and clean system design**.
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="20"/>
 </p>
 
-**Tools & IDEs**  
+**Tools**  
 <p>
   <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -42,6 +44,7 @@ I enjoy working at the intersection of **data, logic, and clean system design**.
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dev--C++-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Jupyter Notebook-F37726?style=flat&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
