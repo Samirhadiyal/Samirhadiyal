@@ -34,6 +34,7 @@ I enjoy working at the intersection of **data, logic, and clean system design**.
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="20"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 **Tools**  
