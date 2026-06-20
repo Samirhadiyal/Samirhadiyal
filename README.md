@@ -32,6 +32,19 @@ I'm a Computer Engineering student at AVPTI, building data-driven AI solutions. 
 
 <br>
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samirhadiyal&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirhadiyal&layout=compact&theme=default&hide_border=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samirhadiyal&theme=default&hide_border=true" width="60%" />
+
+</div>
+
+<br>
+
 ### 🎯 Currently
 
 - Strengthening core machine learning concepts
