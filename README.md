@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-Machine Learning Engineer | Computer Engineering Student at AVPTI | Developing Data-Driven AI Solutions.
+Machine Learning Engineer | Developing Data-Driven AI Solutions.
 <br>
 I enjoy working at the intersection of **data, logic, and clean system design**. 
 
