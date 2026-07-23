@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samir Hadiyal 👋</h1>
-<h3 align="center">Machine Learning Engineer building data-driven AI systems, end to end.</h3>
+<h3 align="center">Machine Learning Engineer building data-driven AI systems</h3>
 
 <!-- Upload network_banner.svg to your repo at assets/network_banner.svg first. -->
 <!-- If your default branch is "master" instead of "main", change that word in the URL below. -->
