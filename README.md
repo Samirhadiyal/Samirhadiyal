@@ -109,7 +109,7 @@ Production-oriented AI project combining Computer Vision, RAG, and LLMs for snak
 </td>
 <td width="50%" valign="top">
 
-**📖 [ai-engineering-core]([https://github.com/Samirhadiyal/ai-engineering-core])**
+**📖 [ai-engineering-core](https://github.com/Samirhadiyal/ai-engineering-core)**
 <br>
 A structured, from-scratch collection of ML algorithms and concepts, built with NumPy only — no shortcuts, to build genuine understanding of the math behind each model.
 <br><br>
@@ -130,7 +130,7 @@ End-to-end NLP system that flags potentially fake reviews before running sentime
 </td>
 <td width="50%" valign="top">
 
-**🛒 [SmartCart — Customer Segmentation](https://github.com/Samirhadiyal/SmartCart)**
+**🛒 [SmartCart-clustering-system](https://github.com/Samirhadiyal/SmartCart-clustering-system)**
 <br>
 Unsupervised clustering pipeline segmenting 2,240 retail customers into 4 behavioral groups using PCA, K-Means, and Agglomerative Clustering.
 <br><br>
@@ -141,7 +141,7 @@ Unsupervised clustering pipeline segmenting 2,240 retail customers into 4 behavi
 <tr>
 <td width="50%" valign="top">
 
-**💬 [AI-Powered Dialogue Summarizer](https://github.com/Samirhadiyal/dialogue-summarizer)**
+**💬 [AI-Powered-Dialogue-Summarizer](https://github.com/Samirhadiyal/AI-Powered-Dialogue-Summarizer)**
 <br>
 Abstractive dialogue summarization using a fine-tuned T5-Small Transformer, served via FastAPI with a responsive web interface and GPU-accelerated inference.
 <br><br>
